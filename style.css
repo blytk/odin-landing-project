@@ -179,9 +179,10 @@
     background-color: #3882F6;
     height: 200px;
     color: #E5E7EB;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
     border-radius: 10px;
+    padding: 20px;
     flex-wrap: wrap;
 }
 
