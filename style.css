@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    font-family: 'Roboto', serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .section {
@@ -13,6 +13,10 @@
     background-color: #1F2937;
     color: #F9FAF8;
     padding-top: 0;
+}
+
+.section1 button {
+    border-radius: 10px;
 }
 
 .header {
@@ -144,10 +148,9 @@
     gap: 16px;
     color: #1F2937;
     justify-content: center;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
+    align-items: center;
+    padding-left: 300px;
+    padding-right: 300px;    
 }
 
 .quote h1 {
